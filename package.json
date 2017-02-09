@@ -1,0 +1,27 @@
+{
+  "name": "wong-midtermexam-020917",
+  "version": "1.0.0",
+  "description": "My Midterm Exam",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicolekyrawong/Midterm-Exam.git"
+  },
+  "keywords": [
+    "node",
+    "git",
+    "npm",
+    "sublime",
+    "github",
+    "express"
+  ],
+  "author": "Nicole Kyra Wong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicolekyrawong/Midterm-Exam/issues"
+  },
+  "homepage": "https://github.com/nicolekyrawong/Midterm-Exam#readme"
+}
